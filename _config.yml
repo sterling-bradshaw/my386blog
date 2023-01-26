@@ -23,22 +23,22 @@ email: bradshaw.sterling@gmail.com # Add your email
 description: >- # this means to ignore newlines until "baseurl:"
  This blog is meant for Stat386 to practice technical communication.
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
-url: "https://sterling-bradshaw.github.io" #  change this to "https://<your-github-username>.github.io"
+url: "https://sterling-bradshaw.github.io/my386blog" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/ramon-salinero-vEE00Hx5d0Q-unsplash.jpg
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+author: Sterling Bradshaw
+copyright: SB # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: 
+github_username:  sterling-bradshaw
+linkedin_username: Sterling Bradshaw
 dribbble_username: 
-facebook_username: 386student
+facebook_username: Sterling Bradshaw
 flickr_username:
-instagram_username: 
+instagram_username: @sterfry1234
 pinterest_username:
 youtube_username: 
-googleplus_username: 386student
+googleplus_username:
 
 
 # Build settings
