@@ -13,4 +13,4 @@ image: /assets/images/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg
         - Where are you hoping to get data for your main class project?  
         The only place I really know to get data is from Kaggle.
 
-        <img src="https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/tom-briskey-HM3WZ4B1gvM-unsplash.jpg>
+        ![Basketball](tom-briskey-HM3WZ4B1gvM-unsplash.jpg)
