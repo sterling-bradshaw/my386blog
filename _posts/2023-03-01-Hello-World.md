@@ -28,6 +28,7 @@ The results were disasterous. Not one car finished the course in 2004. But we ha
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/Unknown.jpeg" alt="" style="width:400px;"/>
+
 <font size= "1"> This motorcycle was the first self driving motorcycle and debuted in the DARPA challenge in 2004. </font>
 
 </p>
