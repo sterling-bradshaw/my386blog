@@ -46,3 +46,5 @@ The final example has to do with consumerism. Grocery stores (Target in our exam
 One of the key takeaways from Hello World is the importance of human oversight in the development and deployment of algorithms. While algorithms are benefitting so many people in such diverse ways, others are being hurt (or even killed in the self-driving cars example) by our "helpful" algorithms.
 
 Overall, "Hello World" is a thought-provoking and informative read for anyone interested in data science, technology, and society. Fry's insights and examples provide a valuable perspective on the opportunities and challenges presented by algorithms, and underscore the importance of ensuring that we use these powerful tools in responsible and ethical ways. I would give the book a 3.5/5.
+
+<font size= "1"> Disclaimer: I used ChatGPT to generate parts of the Case Studies section as well as the majority of the Intro and Conclusion paragraphs.
