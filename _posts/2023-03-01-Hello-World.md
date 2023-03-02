@@ -31,7 +31,9 @@ The results were disasterous. Not one car finished the course in 2004. But we ha
 
 </p>
 
+<p align="center">
 <font size= "1"> This motorcycle was the first self driving motorcycle and debuted in the DARPA challenge in 2004. </font>
+</p>
 
 The final example has to do with consumerism. Grocery stores (Target in our example) have algorithms that predict what stage of life we are in to better advertise to our needs. One woman received advertisements geared toward a prospective mother. Her father was furious the HIS teenage daughter received such a thing by mistake... except it wasn't a mistake. She was pregnant and hadn't told her father before he saw the ads sent by Target.
 
