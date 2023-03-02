@@ -11,7 +11,7 @@ Data science has become an increasingly important field, with data-driven decisi
 
 Each chapter in the book focuses on a different area where algorithms play a significant role. Fry starts by introducing us to the basics of algorithms and how they work, explaining that an algorithm is simply a set of instructions for solving a problem. She then goes on to explore how algorithms are used in fields such as healthcare, finance, policing, and dating, among others. In each chapter, she provides real-life examples of algorithms in action, explaining how they utilize the machine learning process to impact individuals and society as a whole.
 
-![Hello](https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/shubham-dhage-fcbnWSjh1U8-unsplash.jpg)
+
 
 
 ## *Case Studies*
@@ -22,9 +22,7 @@ With an algorithm, you must be okay with both sides of the coin. The automobile 
 
 The results were disasterous. Not one car finished the course in 2004. But we have come a long way since then thankfully! We now have self driving cars on our highways. While it is extremely convenient, it comes at a cost (as it always does). If the vehicle is faced with the decision to save the person in the car or to save a pedestrian, which should it choose? Which is ethical?
 
-![](https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/Unknown.jpeg)[^1]
-*The first self driving motorcycle debuted at the DARPA challenge in 2004*
-[^1]: The first self driving motorcycle debuted at the DARPA challenge in 2004
+<img src="https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/Unknown.jpeg" alt="" style="width:400px;"/>
 
 The final example has to do with consumerism. Grocery stores (Target in our example) have algorithms that predict what stage of life we are in to better advertise to our needs. One woman received advertisements geared toward a prospective mother. Her father was furious the HIS teenage daughter received such a thing by mistake... except it wasn't a mistake. She was pregnant and hadn't told her father before he saw the ads sent by Target.
 
