@@ -17,6 +17,10 @@ Each chapter in the book focuses on a different area where algorithms play a sig
 
 </p>
 
+## *My Take*
+As a lover of mathematics, I loved the mathematical explanations in the book to explain how the algorithms fall short of perfection. It makes it clear how the algorithms should only be used as a decision making tool rather than what governs our decision making as a society.
+I didn't love the doom-and-gloom aspect of the book. Throughout the entire read, I was thinking to myself, "Wow there are no good solutions in this world." Fry clearly shows that whenever we desire a particular outcome from an algorithm, we give up something else.
+
 ## *Case Studies*
 One of the most compelling examples Fry presents is the story of an algorithm used by a US court to predict the likelihood of a defendant reoffending. The algorithm was designed to help judges make more informed decisions about bail and sentencing, but it turned out to be biased against African-American defendants.
 On the other side of things, algorithms help identify criminals off the street each day using face recognition.
@@ -41,4 +45,4 @@ The final example has to do with consumerism. Grocery stores (Target in our exam
 
 One of the key takeaways from Hello World is the importance of human oversight in the development and deployment of algorithms. While algorithms are benefitting so many people in such diverse ways, others are being hurt (or even killed in the self-driving cars example) by our "helpful" algorithms.
 
-Overall, "Hello World" is a thought-provoking and informative read for anyone interested in data science, technology, and society. Fry's insights and examples provide a valuable perspective on the opportunities and challenges presented by algorithms, and underscore the importance of ensuring that we use these powerful tools in responsible and ethical ways.
+Overall, "Hello World" is a thought-provoking and informative read for anyone interested in data science, technology, and society. Fry's insights and examples provide a valuable perspective on the opportunities and challenges presented by algorithms, and underscore the importance of ensuring that we use these powerful tools in responsible and ethical ways. I would give the book a 3.5/5.
