@@ -6,15 +6,26 @@ description: This book expounds on the benefits and potential dangers of living 
 image: /assets/images/markus-spiske-iar-afB0QQw-unsplash.jpg
 ---
 
-# The Age of Data
+## *The Age of Data*
 Data science has become an increasingly important field, with data-driven decisions affecting every aspect of our lives. But how do we ensure that the algorithms we use are ethical and effective? In her book "Hello World: Being Human in the Age of Algorithms," mathematician and science communicator Hannah Fry explores these questions and more.
 
-The book is divided into ten chapters, each focusing on a different area where algorithms play a significant role. Fry starts by introducing us to the basics of algorithms and how they work, explaining that an algorithm is simply a set of instructions for solving a problem. She then goes on to explore how algorithms are used in fields such as healthcare, finance, policing, and dating, among others. In each chapter, she provides real-life examples of algorithms in action, explaining how they work and their impact on individuals and society as a whole.
+Each chapter in the book focuses on a different area where algorithms play a significant role. Fry starts by introducing us to the basics of algorithms and how they work, explaining that an algorithm is simply a set of instructions for solving a problem. She then goes on to explore how algorithms are used in fields such as healthcare, finance, policing, and dating, among others. In each chapter, she provides real-life examples of algorithms in action, explaining how they utilize the machine learning process to impact individuals and society as a whole.
 
-One of the strengths of Hello World is Fry's ability to explain complex concepts in a way that is accessible to a wide audience. She avoids jargon and technical language, making the book easy to follow even for those with little or no background in data science or mathematics. She uses clear and engaging language, interspersed with real-world examples and anecdotes, to illustrate her points.
+![]()
 
-Another strength of the book is the way Fry balances the benefits and risks of algorithms. She acknowledges that algorithms can be incredibly powerful tools for solving complex problems, but she also recognizes the potential dangers of relying too heavily on them. For example, in the chapter on policing, she discusses how algorithms are used to predict which individuals are most likely to commit a crime. While this can be helpful in identifying and preventing crime, it can also lead to biased outcomes and unjustified surveillance.
+## *Case Studies*
+One of the most compelling examples Fry presents is the story of an algorithm used by a US court to predict the likelihood of a defendant reoffending. The algorithm was designed to help judges make more informed decisions about bail and sentencing, but it turned out to be biased against African-American defendants.
+On the other side of things, algorithms help identify criminals off the street each day using face recognition.
 
-One of the key takeaways from Hello World is the importance of human oversight in the development and deployment of algorithms. Fry argues that algorithms should not be left to make decisions on their own, but should be subject to human scrutiny and intervention. She also emphasizes the need for transparency in how algorithms are designed and used, so that individuals can understand how they are being evaluated and why.
+With an algorithm, you must be okay with both sides of the coin. The automobile industry mentioned by Fry is another perfect example of this. Back in 2004, a competition was created to pit self driving cars against one another in a race. This was the first mainstream effort to put self driving cars on the map for good.
 
-Overall, Hello World is a must-read for anyone interested in the impact of algorithms on our lives. Fry's clear and engaging writing style, combined with her deep knowledge of the subject matter, make this book both informative and enjoyable to read. Whether you are a data scientist, a policymaker, or simply someone who wants to understand how algorithms work, Hello World is an excellent resource that will leave you with a deeper understanding of this rapidly evolving field.
+The results were disasterous. Not one car finished the course in 2004. But we have come a long way since then thankfully! We now have self driving cars on our highways. While it is extremely convenient, it comes at a cost (as it always does). If the vehicle is faced with the decision to save the person in the car or to save a pedestrian, which should it choose? Which is ethical?
+![The first self driving motorcycle debuted at the DARPA challenge in 2004]()
+
+The final example has to do with consumerism. Grocery stores (Target in our example) have algorithms that predict what stage of life we are in to better advertise to our needs. One woman received advertisements geared toward a prospective mother. Her father was furious the HIS teenage daughter received such a thing by mistake... except it wasn't a mistake. She was pregnant and hadn't told her father before he saw the ads sent by Target.
+
+## Conclusion
+
+One of the key takeaways from Hello World is the importance of human oversight in the development and deployment of algorithms. While algorithms are benefitting so many people in such diverse ways, others are being hurt (or even killed in the self-driving cars example) by our "helpful" algorithms.
+
+Overall, "Hello World" is a thought-provoking and informative read for anyone interested in data science, technology, and society. Fry's insights and examples provide a valuable perspective on the opportunities and challenges presented by algorithms, and underscore the importance of ensuring that we use these powerful tools in responsible and ethical ways.
