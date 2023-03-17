@@ -3,7 +3,7 @@ layout: post
 title:  "Data Collection"
 author: Sterling Bradshaw
 description: A brief guide on how to gather data via APIs
-image: /assets/images/markus-spiske-iar-afB0QQw-unsplash.jpg
+image: /assets/images/Data.jpg
 ---
 
 ## **Why use an API?**
