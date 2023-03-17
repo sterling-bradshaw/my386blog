@@ -57,3 +57,5 @@ You could also create series or dataframes using the pandas package if you will 
 ## **Conclusion**
 
 While APIs are quite daunting, when broken down into steps it becomes very managable. The most important thing to remember when using APIs is to be patient! Each API has its specifications with syntax for the endpoints that should be in documentation. And remember, APIs are how we find answers to real world questions.
+
+See my [GithubRepo](https://github.com/sterling-bradshaw/386Project) for more info!
