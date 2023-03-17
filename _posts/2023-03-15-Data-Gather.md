@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Collection"
+title:  "The True NBA Stats All-Star: API"
 author: Sterling Bradshaw
 description: A brief guide on how to gather data via APIs
 image: /assets/images/Data.jpg
