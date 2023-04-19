@@ -20,4 +20,6 @@ With the data cleaned and patterns displayed, I returned to my initial question:
 
 As we look at the following visualization, it is important to keep in mind some key transitions that occurred in the league, namely the adoption of the three-point line in 1979 and Steph Curry's draft date in 2009.
 
-[Final](http://localhost:8888/view/Documents/ForSchool/Stat386/386Project/Final.html)
+![Final](http://localhost:8888/view/Documents/ForSchool/Stat386/386Project/Final.html)
+
+The conclusions we can pull from this graphic are quite interesting. From what we can tell, the analysts are at least somewhat correct. Just a few years after Steph Curry joined the league, we start to see a dramatic shift upward in average game scores across the league. The only 
