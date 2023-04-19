@@ -11,7 +11,7 @@ image: /assets/images/Dunk.jpg
 ## Introduction
 The whole motivation behind this project was to fact check the announcers and analysts that cast the majority of today's NBA games. Almost all of the analysts (at least from what I have heard in my limited exposure) is that the NBA league is not the same as it used to be. Steph Curry transformed the way teams operate by becoming a lights-out shooter from beyond the arc. Teams often space the floor more to decongest the interior of the court next to the basket (see [this article](https://www.thehoopsgeek.com/history-three-pointer/) for the history of the three pointer).
 
-![Steph](Steph.jpg)
+![Steph](https://raw.githubusercontent.com/sterling-bradshaw/my386blog/main/assets/images/Steph.jpg)
 
 We hear about how league-wide teams are taking more three pointers on average each game, but could that be attributed simply to the fact that teams have more possession than before on average? This increase in pace to allow more possessions definitely accounts for part of the increase, however, as we look at the ratio of three-point attempts to two-point attempts, that has also increased. Conclusion: the league has changed they way basketball is played. In other words, the ["three-point revolution"](https://www.nba.com/news/3-point-era-nba-75) has begun.
 
