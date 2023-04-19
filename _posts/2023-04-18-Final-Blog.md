@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is the "Three-Point Revolution" An Accurate NBA Story?"
+title:  Is the "Three-Point Revolution" An Accurate NBA Story?
 author: Sterling Bradshaw
 description: Exploring the biggest conclusions from the NBA data project
 image: /assets/images/Dunk.jpg
