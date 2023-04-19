@@ -29,5 +29,9 @@ As we look at the following visualization, it is important to keep in mind some 
 
 The conclusions we can pull from this graphic are quite interesting. From what we can tell, the analysts are at least somewhat correct. Just a few years after Steph Curry joined the league, we start to see a dramatic shift upward in average game scores across the league. The only caviat to the sports analysts' claims is that this phenomenon of scoring such high scoring games is new. One common quip amongst analysts is that the level of scoring isn't like it used to be in the 80s. Taking averages across the league, we see that league scoring is actually at the same level as the 80s.
 
+The other piece that might play a factor in the steady decrease of average scoring was the introduction of the three point line in 1979. Without a three point line, there was no incentive to gain muscle memory for outside shooting. Closer to basket = easier points = win more games. It was that simple. 
+
+My guess is that for a few years, teams stuck to their old ways of trying to shoot more shots closer to the basket. However, once teams realized the three point shot could be a viable strategy, more threes were taken... except no one was good at shooting them quite yet. The decrease from 1984-1998 most likely display the growing pains the NBA had to go through to learn how to successfully implement more three point attempts into each game strategy.
+
 ## Final Thoughts
 Whether it be new rule changes, new players with groundbreaking game strategies, or some other factor, we can see scoring averages across the league goes through phases. It would take some extra digging to find out exactly what has caused these big shifts in scoring, but we know one thing for sure. The NBA is dynamic!
