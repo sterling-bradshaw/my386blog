@@ -35,3 +35,5 @@ My guess is that for a few years, teams stuck to their old ways of trying to sho
 
 ## Final Thoughts
 Whether it be new rule changes, new players with groundbreaking game strategies, or some other factor, we can see scoring averages across the league goes through phases. It would take some extra digging to find out exactly what has caused these big shifts in scoring, but we know one thing for sure. The NBA is dynamic!
+
+You can find all the code used and the dataframe for this project here on my [Github Repo](https://github.com/sterling-bradshaw/386Project)
